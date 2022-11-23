@@ -41,7 +41,7 @@ docker run \
 
 ## Logs
 
-<!-- Report logs an to help explain your problem. -->
+<!-- Report logs to help explain your problem. -->
 
 ## Additional context
 
